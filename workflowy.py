@@ -59,7 +59,7 @@ class WorkflowyScheduler(object):
         cls.__click_button("div.header-bar a.button--top-right")
         cls.__wait_for_element_to_appear("#id_username")
         cls.__fill_text_box("#id_username", "erickball@fastmail.com")
-        cls.__fill_text_box("#id_password", "tSt.fic5")
+        cls.__fill_text_box("#id_password", "guess")
         cls.__click_button("input.button--submit")
  
     @classmethod
