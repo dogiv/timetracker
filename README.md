@@ -1,4 +1,4 @@
 ﻿# timetracker
 
 
-This is a program for implementing the Pomodoro technique, that runs unobtrusively in the task bar.
+Runs unobtrusively in the task bar and helps you track how you spent your day.
